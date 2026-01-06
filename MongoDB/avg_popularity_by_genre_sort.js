@@ -1,0 +1,3 @@
+{
+  $sort: { avgPopularity: -1 }
+}
